@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../reddit-server" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -34,7 +34,14 @@
       <option name="presentableId" value="Default" />
       <updated>1600791482825</updated>
       <workItem from="1600791483939" duration="1000" />
+      <workItem from="1601991095480" duration="8000" />
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2664" y="313" key="FileChooserDialogImpl" timestamp="1601991101647">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2664" y="313" key="FileChooserDialogImpl/0.26.1920.1054/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601991101647" />
   </component>
 </project>
